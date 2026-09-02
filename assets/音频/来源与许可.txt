@@ -1,0 +1,18 @@
+# 音效素材来源与许可
+
+本文件夹内的音效素材均来自 **Mixkit**(https://mixkit.co),依据 Mixkit 免费许可:
+- 可免费用于商业与非商业项目;
+- 无需署名,但注明来源是礼貌;
+- 不得将素材本身重新分发/转售。
+
+## 文件清单(均已在游戏中使用或备用)
+
+| 文件 | 用途 | 来源 |
+|---|---|---|
+| 敲-厚木门.mp3 | 结局敲门(轻档) | mixkit.co 音效 #197 "Knocking on a thick wooden door" |
+| 重门关合.mp3 | 敲门升级(中档) | mixkit.co 音效 #196 "Door hard shut" |
+| 摔门重响.mp3 | 砸门/破门(重档) | mixkit.co 音效 #194 "Slamming a door" |
+| 门开-恐怖吱呀.mp3 | 门被从外打开 | mixkit.co 音效 #190 "Scary wooden door opening" |
+| 地板吱呀.mp3 | 门外脚步逼近的氛围音 | mixkit.co 音效 #337 "Wooden floorboard creak" |
+
+音效以 base64 形式内嵌进 `game.html`,保证离线双击 / 手机 file:// / 任何托管方式均可播放;本文件夹保留原始文件供替换与查看。
